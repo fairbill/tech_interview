@@ -8,7 +8,7 @@
   1. Use one of these free bootstrap templates at your choice: http://bootswatch.com/
   2. A frontpage. The frontpage will have the following items:
     * A title, a description, a logo (you can use a random pic) to indicate what this site does (Rate my professor).
-    * A frontpage should also have a list/table of professors sorted by their ratings (highest on top). Each professor row in the list/table should have the following columns: first_name, last_name, university_name, rating, and a link to their profile page. Bonus point: The list/table should be paginated (Hint: https://github.com/amatsuda/kaminari).
+    * A frontpage should also have a list/table of professors sorted by their ratings (highest on top). Each professor row in the list/table should have the following columns: first_name, last_name, university_name, rating, and a link to their profile page. Bonus point: Paginate the list/table (Hint: use a plugin such as: https://github.com/amatsuda/kaminari).
   3. A professor profile page. The profile page will have the following items:
     * Pofessor's name and rating
     * Professor's university's address display in a small google map.
